@@ -2,7 +2,7 @@
 
 /****Marlene's advice*****/
 .marlene-advice h1{
-   font-family:  noto-serif;
+   font-family:  noto-serif
    font-size:  48px;
    font-weight:  bold;
    color:  white;
@@ -9982,3 +9982,43 @@ body.nancys-advice {
 }
 
 /***** END Nancy's Advice *****/
+
+/***** Carlyn's Advice *****/
+.advice-carlynmcdonald header a {
+    color: gold;
+  }
+  
+  body.advice-carlynmcdonald {
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .advice-carlynmcdonald section {
+    padding-left: 30px;
+  }
+  
+  advice-carlynmcdonald h1,h4 {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    color: darkblue;
+  }
+  
+  advice-carlynmcdonald h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  
+  advice-carlynmcdonald h4 {
+    font-size: 20px;
+    padding-bottom: 10px;
+  }
+  
+  advice-carlynmcdonald p {
+    font-family: 'Indie Flower', cursive;
+    font-size: 16px;
+    font-weight: 300;
+    padding-bottom: 20px;
+  }
+  
+  /***** End Carlyn's Advice *****/
