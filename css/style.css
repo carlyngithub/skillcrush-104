@@ -35,6 +35,38 @@
    text-align:  center
    }
 
+/***** Lisakpierce advice *****/
+.lisakpierce-advice h1 {
+  font-family: Megrim;
+  font-size: 34px;
+  color: DarkSlateGray;
+  text-align: center;
+}
+
+.lisakpierce-advice h4 {
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 24px;
+  font-variant: small-caps;
+}
+
+.lisakpierce-advice p {
+  padding: 20px, 0;
+  font-size: 20px;
+}
+
+/***** end Lisakpierce advice *****/
+
+
+/****Traci's advice*****/
+.traci-advice h1 {
+font-family: sans-serif;
+font-size: 30px;
+font-weight: bold;
+color: pink;
+text-align: center;
+}
+
 /***** Jeannine Advice ******/
 .jeannine-advice h1 {
   color: pink;
@@ -1754,6 +1786,14 @@ body.troypratt-advice footer {
     font-style: italic;
 }
 /* -- End Jvillars's Styles */
+
+/* DWs Styles*/
+
+.dw-advice {
+    font-color: darkgreen;
+    font-family: sans-serif;
+    background-color: antiquewhite;
+}
 
 /** Debra's Styles **/
 .debra-advice {
@@ -9982,3 +10022,42 @@ body.nancys-advice {
 }
 
 /***** END Nancy's Advice *****/
+
+/***** Sue Sue's Advice *****/
+.advice-suesue h1{
+  font-family: 'Source Sans Pro', serif;
+  text-align: center;
+  font-color: skyblue;
+  font-size: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.advice-suesue p{
+  font-family: 'Source Sans Pro' serif;
+  text-align: center;
+  font-color: navy;
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+/***** END Sue Sue's Advice *****/
+
+/***** ZACH DUNLAP'S ADVICE *****/
+.zachdunlap-advice p{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: normal;
+}
+
+.zachdunlap-advice span {
+  font-weight: bolder;
+  color: red;
+}
+
+.zachdunlap-advice h2 {
+  color: #000000;
+}
+
+.zachdunlap-advice h1 {
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
